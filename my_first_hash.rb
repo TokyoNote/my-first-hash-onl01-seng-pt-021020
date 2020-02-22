@@ -45,5 +45,5 @@ shipping_manifest["gunpowder"] = 4
 
 
   # return the shipping_manifest hash below
-
+shipping_manifest
 end
